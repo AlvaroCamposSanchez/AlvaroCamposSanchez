@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlvaroCamposSanchez
-- 👀 I’m interested in Web Developing
+- 👋 Hola, soy @AlvaroCamposSanchez
+- 👀 Estoy interesado en  Web Developing
 - 🌱 I’m currently learning HTML, CSS Bootstrap 5, JS & other languajes.
-- 📫 How to reach me: Contact to zakrobussines@gmail.com
+- 📫 Puedes contactarme en :zakrobussines@gmail.com
 
 <!---
 AlvaroCamposSanchez/AlvaroCamposSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
